@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstaFocus</string>
+    <string name="accessibility_service_description">InstaFocus needs Accessibility access to detect and block the Reels and Explore tabs in Instagram.</string>
+</resources>
